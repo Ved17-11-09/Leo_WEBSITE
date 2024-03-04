@@ -26,7 +26,7 @@ pause2.addEventListener('click', ()=>{
 
 let play3 = document.getElementById("audio3");
 let pause3 = document.getElementById("pause3");
-let audio3 = new Audio('music/Na_Ready.mp4');
+let audio3 = new Audio('music/Na_Ready.mp3');
 
 play3.addEventListener('click', ()=>{
     audio3.play();
